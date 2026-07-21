@@ -2,19 +2,14 @@
 Zero-Waste Bakery Sustainability Project
 
 Mission:
-To reduce food waste in small bakeries using sustainability practices,
+To reduce food waste in households using sustainability practices,
 simple analytics, and technology tools.
 
 Goals:
 - Track leftover inventory
-- Improve demand forecasting
-- Encourage sustainable packaging
 - Reduce environmental impact
 - Explore AI-based waste reduction tools
 
 Potential Future Features:
 - Ingredient shelf-life tracking
 - Carbon footprint estimation
-- AI demand prediction
-- Donation matching for excess food
-- Sustainability dashboard for small bakeries
